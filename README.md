@@ -1,2 +1,2 @@
 # SDG
-## We talk about 5 SDGs in brief
+## We talk about 5 SDGs in brief.
